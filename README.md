@@ -1,7 +1,10 @@
  <h1 align="center">Hi 👋, I'm Shubham Pandey</h1>
 - 🌱 I’m currently learning Data Structue and Algorithm
+<br>
 - 💬 Ask me anything about Frontend Development
+<br>
 - 📫 How to reach me: shubhamchamp435@gmail.com
+<br>
 - 😄 My website: soon...
   
 ### Connect with me:
